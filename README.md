@@ -11,7 +11,7 @@ add the word with its English and Turkish equivalent.
 
 -Thus, you make your own dictionary and check words 
 that you don't remember.
-
+# Dictionary-Application
 -If you think, you need to practice them you use the "quiz" part. 
 So that you stick the words in your mind.
 
