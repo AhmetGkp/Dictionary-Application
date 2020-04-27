@@ -3,7 +3,7 @@ Create Your Own Dictionary!
 
 -I have made this application to 
 help me improve my Norwegian. 
-# How To Use
+## How To Use
 -It is quite simple to use that.
 
 -When you've learned a new word in Norwegian, you 
@@ -17,6 +17,6 @@ So that you stick the words in your mind.
 
 -Mark the words as "Kelimeyi Öğrendim" to not face with them 
 at the quiz if it's enough similar to you. Or just delete them.
-# Install
--You're needed to have [jdk](www.google.com).
+## Install
+-You're needed to have `jdk` 
 -Downloading the rar file is enough to use.
