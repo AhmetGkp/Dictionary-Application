@@ -1,7 +1,7 @@
 # Dictionary-Application
 Create Your Own Dictionary!
 
--I have made this application to 
+-  I have made this application to 
 help me improve my Norwegian. 
 ## How To Use
 * It is quite simple to use that.
@@ -19,5 +19,5 @@ So that you stick the words in your mind.
 at the quiz if it's enough similar to you. Or just delete them.
 
 ## Install
-* You're needed to have jdk 
+* You're needed to have [`jdk`](https://github.com/guard/listen/blob/master/README.md)
 * Downloading the rar file is enough to use.
