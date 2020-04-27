@@ -19,5 +19,5 @@ So that you stick the words in your mind.
 at the quiz if it's enough similar to you. Or just delete them.
 
 ## Install
-* You're needed to have [`jdk`](https://github.com/guard/listen/blob/master/README.md)
+* You're needed to have [`jdk`](https://www.oracle.com/java/technologies/javase-downloads.html) on your computer.
 * Downloading the rar file is enough to use.
