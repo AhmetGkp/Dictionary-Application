@@ -20,4 +20,4 @@ at the quiz if it's enough similar to you. Or just delete them.
 
 ## Install
 * You're needed to have [`jdk`](https://www.oracle.com/java/technologies/javase-downloads.html) on your computer.
-* Downloading the rar file is enough to use.
+* Beside that downloading the rar file is enough to use.
