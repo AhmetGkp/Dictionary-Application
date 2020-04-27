@@ -18,5 +18,5 @@ So that you stick the words in your mind.
 -Mark the words as "Kelimeyi Öğrendim" to not face with them 
 at the quiz if it's enough similar to you. Or just delete them.
 # Install
--You're needed to have [jdk](www.google.com)
+-You're needed to have [jdk](www.google.com).
 -Downloading the rar file is enough to use.
