@@ -1,0 +1,6 @@
+1,en forelder,a parent,a parent
+1,en far,a father,a father
+1,ei mor,a mother,a mother
+1,en tvilling,a twin,a twin
+1,et søsken,a sibling,a sibling
+1,en sokk,a sock,a sock
