@@ -18,4 +18,4 @@ So that you stick the words in your mind.
 -Mark the words as "Kelimeyi Öğrendim" to not face with them 
 at the quiz if it's enough similar to you. Or just delete them.
 
--Downloading the rar file is enough for use.
+-Downloading the rar file is enough to use.
