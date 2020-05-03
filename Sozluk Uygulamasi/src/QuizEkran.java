@@ -311,7 +311,7 @@ public class QuizEkran extends JFrame {
 		denemeSayisi = 3;
 		int dondurmeSayisi = 12;
 		
-		pointer: for (i = 0; i < dondurmeSayisi; i++) {
+		pointer: for (i = 0; i < dondurmeSayisi && i < kelimeListesi.size(); i++) {
 			
 			if (kelimeListesi.get(i).getDurum() == 1) {
 				
@@ -322,6 +322,7 @@ public class QuizEkran extends JFrame {
 				
 					if (ikinciListe.contains(kelimeListesi.get(a).getNorvecceKelime())) {
 						i--;
+						kelimeListesi.remove(a);
 						continue pointer;
 					}
 					else {
@@ -336,9 +337,6 @@ public class QuizEkran extends JFrame {
 				i--;
 			}
 			
-			if (kelimeListesi.size() < 12) {
-				dondurmeSayisi = kelimeListesi.size();
-			}
 		}
 		
 		for (bosSoru = i; bosSoru < textObject.length; bosSoru++) {

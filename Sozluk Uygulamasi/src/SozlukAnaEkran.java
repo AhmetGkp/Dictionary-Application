@@ -97,6 +97,8 @@ public class SozlukAnaEkran extends JFrame{
 			
 			while(scanner.hasNextLine()) {
 				icerik = scanner.nextLine();
+				if(icerik.charAt(icerik.length() - 1) == ',') icerik += " ";
+				
 				String[] array= icerik.split(",");
 				kelimeListesi.add(new Kelime(array[1], array[2], array[3], Integer.valueOf(array[0])));
 				String[] array2 = {array[1],array[2],array[3]};
