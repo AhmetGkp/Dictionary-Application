@@ -179,7 +179,7 @@ public class SozlukAnaEkran extends JFrame{
 		kaydetButon.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_S, InputEvent.CTRL_MASK));
 		mnNewMenu.add(kaydetButon);
 		
-		JMenuItem dosyaAcButon = new JMenuItem("Dosya A\u00E7");
+		JMenuItem dosyaAcButon = new JMenuItem("Dosya aç");
 		dosyaAcButon.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_A, InputEvent.CTRL_MASK));
 		mnNewMenu.add(dosyaAcButon);
 		contentPane = new JPanel();
@@ -189,7 +189,7 @@ public class SozlukAnaEkran extends JFrame{
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
-		JLabel lblNewLabel = new JLabel("Kelime Aray\u0131n:");
+		JLabel lblNewLabel = new JLabel("Kelime Arayın:");
 		lblNewLabel.setForeground(new Color(255, 0, 0));
 		lblNewLabel.setFont(new Font("Verdana", Font.PLAIN, 15));
 		lblNewLabel.setBounds(48, 20, 133, 29);
@@ -218,7 +218,7 @@ public class SozlukAnaEkran extends JFrame{
 		panel.add(silButon);
 		silButon.setBorder(BorderFactory.createLineBorder(Color.black, 2));
 		
-		JButton ogrendimButon = new JButton("Kelimeyi \u00D6\u011Frendim");
+		JButton ogrendimButon = new JButton("Kelimeyi Öğrendim");
 		panel.add(ogrendimButon);
 		ogrendimButon.setBorder(BorderFactory.createLineBorder(Color.black, 2));
 		
@@ -226,7 +226,7 @@ public class SozlukAnaEkran extends JFrame{
 		panel.add(quizButon);
 		quizButon.setBorder(BorderFactory.createLineBorder(Color.black, 2));
 		
-		JLabel lblNewLabel_1 = new JLabel("Norve\u00E7\u00E7e:");
+		JLabel lblNewLabel_1 = new JLabel("Norveççe:");
 		lblNewLabel_1.setForeground(new Color(128, 0, 128));
 		lblNewLabel_1.setFont(new Font("Tw Cen MT", Font.PLAIN, 18));
 		lblNewLabel_1.setBounds(24, 71, 87, 44);
@@ -242,7 +242,7 @@ public class SozlukAnaEkran extends JFrame{
 		turkceText.setBounds(121, 212, 134, 29);
 		contentPane.add(turkceText);
 		
-		JLabel lblTrke = new JLabel("T\u00FCrk\u00E7e:");
+		JLabel lblTrke = new JLabel("Türkçe:");
 		lblTrke.setForeground(new Color(128, 0, 128));
 		lblTrke.setFont(new Font("Tw Cen MT", Font.PLAIN, 18));
 		lblTrke.setBounds(24, 202, 87, 44);
@@ -281,7 +281,7 @@ public class SozlukAnaEkran extends JFrame{
 
 		model = (DefaultTableModel) table.getModel();
 		
-		JLabel lblNewLabel_2 = new JLabel("Toplam kelime say\u0131s\u0131:");
+		JLabel lblNewLabel_2 = new JLabel("Toplam kelime sayısı:");
 		lblNewLabel_2.setForeground(new Color(0, 0, 255));
 		lblNewLabel_2.setFont(new Font("Tahoma", Font.PLAIN, 13));
 		lblNewLabel_2.setBounds(48, 277, 135, 25);
