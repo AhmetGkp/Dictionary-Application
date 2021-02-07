@@ -1,23 +1,20 @@
 # Dictionary-Application
 Create Your Own Dictionary!
 
--  I have made this application to 
-help me improve my Norwegian. 
 ## How To Use
-* It is quite simple to use that.
 
-* When you've learned a new word in Norwegian, you 
-add the word with its English and Turkish equivalent.
+* It is quite simple to use the application. 
 
-* Thus, you make your own dictionary and check words 
-that you don't remember.
+* When you've learned a new word in the language you want to improve,  
+add its equivalent in one or two more languages(English and Turkish in this example).
 
-* If you think, you need to practice them you use the "quiz" part. 
-So that you stick the words in your mind.
+* So that, you build your own dictionary and practice the words 
+that you struggle to remember.
 
-* Mark the words as "Kelimeyi Öğrendim" to not face with them 
-at the quiz if it's enough similar to you. Or just delete them.
+* To make a quick summary and stick the words better in your mind, use the "quiz" section where you are given 12 words and asked to write their Norwegian equivalents. 
+
+* Delete or mark the the words as "Kelimeyi Öğrendim" to not face them again in the quiz part, if they are similar enough to you.
 
 ## Install
-* You're needed to have [`jdk`](https://www.oracle.com/java/technologies/javase-downloads.html) on your computer.
-* Beside that downloading the rar file is enough to use.
+* You're needed to have [`jdk`](https://www.oracle.com/java/technologies/javase-downloads.html) on your machine.
+* Beside that, downloading the rar file is enough to use.
