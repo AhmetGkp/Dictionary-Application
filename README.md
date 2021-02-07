@@ -3,7 +3,7 @@ Create Your Own Dictionary!
 
 ## How To Use
 
-* It is quite simple to use the application. 
+* It's quite simple to use the application. 
 
 * When you've learned a new word in the language you want to improve,  
 add its equivalent in one or two more languages(English and Turkish in this example).
